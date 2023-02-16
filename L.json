@@ -1,0 +1,10 @@
+{
+"storeHouse": [
+
+{"sourceName":"L1","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/139139chu/TVBox/main/L1.json"},
+{"sourceName":"L2","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/139139chu/TVBox/main/L2.json"},
+{"sourceName":"L3","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/139139chu/TVBox/main/L3.json"},
+{"sourceName":"L4","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/139139chu/TVBox/main/L4.json"},
+{"sourceName":"L5","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/139139chu/TVBox/main/L5.json"},
+{"sourceName":"L6","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/139139chu/TVBox/main/L6.json"}
+]}
